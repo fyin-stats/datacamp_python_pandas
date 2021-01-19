@@ -210,6 +210,6 @@ dogs.pivot_table(values = "weight_kg", index = "color", aggfunc = [np.mean, np.m
 # pivot on two variables
 dogs.pivot_table(values = "weight_kg", index = "color", columns = "breed")
 
-# fill_value = 0 # replace Nan by 0 s
+# fill_value = 0 # replace Nan by 0 s in pivot table function
 
 # margins = True
