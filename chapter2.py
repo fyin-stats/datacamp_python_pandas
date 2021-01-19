@@ -1,6 +1,6 @@
 # summary statistics
 
-
+# https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/#groupby-output-format-series-or-dataframe
 
 # dogs["height_cm"].mean()
 # .median
